@@ -3,9 +3,8 @@
 __Swift is a cheat table for Minecraft Windows 10 (Bedrock Edition), Swift requires Cheat Engine 7.0 (or higher) to run otherwise you may run into issues when using the Cheat Table!__
 
 Modules:
-------|
-__Combat__
-----------|
+------
+__Combat__|__Movement__|__Player__|__Other__
 
 * Creative Reach
 * RapidClick
