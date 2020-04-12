@@ -4,7 +4,8 @@ __Swift is a cheat table for Minecraft Windows 10 (Bedrock Edition), Swift requi
 
 Modules:
 ------
-__Combat__|__Movement__|__Player__|__Other__
+__Combat__
+----------
 
 * Creative Reach
 * RapidClick
@@ -14,7 +15,7 @@ __Combat__|__Movement__|__Player__|__Other__
 * Hitbox (Height)
 
 __Movement__
-------------|
+------------
 
 * Air Acceleration
 * Player Speed
@@ -27,7 +28,7 @@ __Movement__
 * Fast Ladder (Down)
 
 __Player__
-----------|
+----------
 
 * Flight
 * Scaffold
@@ -37,7 +38,7 @@ __Player__
 * Gamemode
 
 __Other__
----------|
+---------
 * NoPacket
 * Freecam
 * No Hitbox Shadow
